@@ -7,5 +7,5 @@ This contains different files of different high level programming starting with 
 
 ### README.md
 
-### Author : **OKECHUKWU NOBLE **
+__Author : OKECHUKWU NOBLE__
 
