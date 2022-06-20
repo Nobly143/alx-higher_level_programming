@@ -18,7 +18,4 @@ Prototypes for functions written in this project:
 |100-safe_print_integer_err.py|def safe_print_integer_err(value):|
 |101-safe_function.py|def safe_function(fct, *args):|
 |102-magic_calculation.py|def magic_calculation(a, b)|
-|103-python.c|
-* void print_python_list(PyObject *p);
-* void print_python_bytes(PyObject *p);
-* void print_python_float(PyObject *p)|
+|103-python.c|* void print_python_list(PyObject *p); * void print_python_bytes(PyObject *p); * void print_python_float(PyObject *p)|
