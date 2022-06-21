@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 class Square:
-    """ A simple square class"""
+    """A simple square class."""
     pass
