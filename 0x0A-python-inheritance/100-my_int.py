@@ -3,7 +3,7 @@
 
 
 class MyInt(int):
-    """A class inheriting from int 
+    """A class inheriting from int
     and inverting signs."""
 
     def __eq__(self, other):
