@@ -2,5 +2,5 @@
 let i;
 const languageArray = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 for (i = 0; i < 3; i++) {
-	console.log(languageArray[i]);
+  console.log(languageArray[i]);
 }
