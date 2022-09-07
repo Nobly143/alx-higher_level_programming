@@ -5,7 +5,7 @@
 The aim of this project is to understand the concepts of objects, scopes and closures in javascript. We also learn about the 'this' and 'undefined' keywords, and how to inherit an object from another.
 
 # Table of contents
-|Files	Description|
+|Files	|Description|
 |-----|----------|
 |0-rectangle.js|	empty class Rectangle that defines a rect|angle
 |1-rectangle.js	|class Rectangle that defines a rectangle|
